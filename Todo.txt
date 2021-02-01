@@ -1,0 +1,15 @@
+
+    TO DO:
+    
+    -darbas tik konsoleje
+    - uzdiociu sarasas
+        -tekstas
+        -statusa: atlikta / neatlikta
+    -ka galima su juo daryti? (aka CRUD)
+        -prideti nauja uzduoti
+        -pakeisti uzduoties statusa
+        -pakeitsti uzduoties teksta
+        -istrinti uzduoti
+        -isspausdinti visas uzduotis
+        -isspausdinti tik atliktas uzduotis
+        -isspausdinti tik neatliktas uzduotis
